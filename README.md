@@ -1,6 +1,6 @@
 [![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Karim Abd El-Raouf</h1>
-<h3 align="center">A passionate flutter developer from India</h3>
+<h3 align="center">A passionate flutter developer from Egypt</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karimraouf&label=Profile%20views&color=0e75b6&style=flat" alt="karimraouf" /> </p>
 <img align="right" alt="Coding" width="400" src="https://www.behance.net/gallery/161921919/Portrait-animated-gif/modules/913447149">
