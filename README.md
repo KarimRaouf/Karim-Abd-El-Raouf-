@@ -1,6 +1,6 @@
 [![MasterHead](https://user-images.githubusercontent.com/64389727/165417849-dc4db28e-827a-4071-afaf-c3614c1ffb49.png)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Karim Abd El-Raouf</h1>
-<h3 align="center">Software Engineer| Flutter Developer</h3>
+<h3 align="center">Software Engineer | Flutter Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karimraouf&label=Profile%20views&color=0e75b6&style=flat" alt="karimraouf" /> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
