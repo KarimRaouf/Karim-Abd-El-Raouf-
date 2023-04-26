@@ -3,7 +3,7 @@
 <h3 align="center">A passionate flutter developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karimraouf&label=Profile%20views&color=0e75b6&style=flat" alt="karimraouf" /> </p>
-<img align="right" alt="Coding" width="400" src="https://www.behance.net/gallery/161921919/Portrait-animated-gif?tracking_source=search_projects%7Canimated+portrait">
+<img align="right" alt="Coding" width="400" src="https://www.behance.net/gallery/161921919/Portrait-animated-gif/modules/913447149">
 
 
 - 🌱 I’m currently learning **Flutter, Software Engineering**
